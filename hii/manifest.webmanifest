@@ -1,0 +1,33 @@
+{
+  "id": "/",
+  "name": "Huddle — chats that keep you close",
+  "short_name": "Huddle",
+  "description": "Private conversations with your people, wherever you are.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#f7f8f6",
+  "theme_color": "#147b65",
+  "categories": ["social", "communication"],
+  "icons": [
+    {
+      "src": "/icons/huddle-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/icons/huddle-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/icons/huddle-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+// Browser-safe Supabase project settings.
+// Copy this file to supabase-config.js and fill in your project's Project URL
+// and publishable (anon) key from Supabase > Project Settings > API.
+// Never put a service_role key in browser code.
+window.HUDDLE_SUPABASE = {
+  url: '',
+  anonKey: ''
+};
